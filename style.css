@@ -1,0 +1,33 @@
+* {
+    box-sizing:auto;;
+    margin:0;
+    padding:0;
+    background-color:burlywood;
+  }
+  .btn{
+    align-items: right;
+    margin-top:50px;
+    margin-left: 600px;
+    padding:10px;
+    font-size: large;
+    font-weight:bold;
+    background-color: black;
+    color:white;
+    border-radius: 5px;
+  }
+  .heading{
+    position:fixed;
+    margin-left: 600px;
+  }
+  .timer{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 30px;
+    font-weight:bold;
+    border: 1px solid black;
+    padding: 50px;
+    color:blue;
+    background-color:green;
+
+
+  }
